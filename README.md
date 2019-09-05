@@ -1,4 +1,7 @@
 # MindLogger-bug-reports
-GitHub repository for bug tracking for the MindLogger project
+GitHub repository for bug tracking and feature requesting for the MindLogger project
 
-[Git Reports](https://gitreports.com/issue/ChildMindInstitute/MindLogger-bug-reports) allows reporting without logging into GitHub.
+## Where to Report a Bug or Feature Request
+
+- [GitHub](https://github.com/ChildMindInstitute/MindLogger-bug-reports/issues) (logged-in users only)
+- [Git Reports](https://gitreports.com/issue/ChildMindInstitute/MindLogger-bug-reports) (without logging into GitHub)
